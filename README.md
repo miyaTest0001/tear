@@ -22,8 +22,7 @@
 ### 3.熟悉manage命令，了解其作用。
 #####	python manage.py runserver        本机上开启一个 Web 服务器
 #####	python manage.py startapp             创建某个应用
-#####	python manage.py makemigrations        django 在应用的 migrations 目录下生成了一个 0001_initial.py 文件，
-#####   这个文件是 django 用来记录我们对模型做了哪些修改的文件
+#####	python manage.py makemigrations        django 在应用的 migrations 目录下生成了一个 0001_initial.py 文件，这个文件是 django 用来记录我们对模型做了哪些修改的文件
 #####	python manage.py migrate              django 通过检测应用中 migrations 目录下的文件，得知我们对数据库做了哪些操作，
 #####   然后它把这些操作翻译成数据库操作语言，从而把这些操作作用于真正的数据库里
 #####	python manage.py createsuperuser       创建用户
