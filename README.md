@@ -3,14 +3,14 @@
 ##### https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
 
 #### 使用方法:
-##### 0. 先下载压缩包解压后得到jetbrains-agent.jar。
+##### 1. 先下载压缩包解压后得到jetbrains-agent.jar。
 #####   下载页面：https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
-##### 1. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE。
+##### 2. 启动你的IDE，如果上来就需要注册，选择：试用（Evaluate for free）进入IDE。
 #####   如果你的IDE试用已过期可以使用reset_eval文件夹内的脚本重置一下。
-##### 2. 将 jetbrains-agent.jar 拖进IDE窗口（或者当作IDE插件安装），点 "Restart" 按钮重启IDE。
+##### 3. 将 jetbrains-agent.jar 拖进IDE窗口（或者当作IDE插件安装），点 "Restart" 按钮重启IDE。
 #####   （事实上你拖 jetbrains-agent-latest.zip 进去IDE窗口也没问题，我就是用的这个方式）
-##### 3. 在弹出的JetbrainsAgent Helper对话框中，选择激活方式，点击安装按钮。
-##### 4. 重启IDE，搞定。（我是重启了电脑）
+##### 4. 在弹出的JetbrainsAgent Helper对话框中，选择激活方式，点击安装按钮。
+##### 5. 重启IDE，搞定。（我是重启了电脑）
 
 ### 2.创建一个Django项目，熟悉setting文件。请说出至少5个配置项的作用。
 ##### LANGUAGE_CODE  可进行中英文切换
