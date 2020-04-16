@@ -1,8 +1,7 @@
-##1.安装pycharm专业版。重点在于如何激活。请搜索并形成笔记。
+###1.安装pycharm专业版。重点在于如何激活。请搜索并形成笔记。
 #####从网上搜索，并试行，最后是用了下面这个地址的方法激活成功了：
 #####https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
-
-
+...
 ####使用方法:
 #####0. 先下载压缩包解压后得到jetbrains-agent.jar。
 #####   下载页面：https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
@@ -12,18 +11,14 @@
 #####   （事实上你拖 jetbrains-agent-latest.zip 进去IDE窗口也没问题，我就是用的这个方式）
 #####3. 在弹出的JetbrainsAgent Helper对话框中，选择激活方式，点击安装按钮。
 #####4. 重启IDE，搞定。（我是重启了电脑）
-
-
-
-##2.创建一个Django项目，熟悉setting文件。请说出至少5个配置项的作用。
+...
+###2.创建一个Django项目，熟悉setting文件。请说出至少5个配置项的作用。
 #####LANGUAGE_CODE  可进行中英文切换
 #####TIME_ZONE  时区的配置
 #####INSTALLED_APPS  自身的内置应用 也可以添加应用
 #####DATABASES  默认的数据库配置
 #####ROOT_URLCONF   根目录url的配置
-
-
-
+...
 ##3.熟悉manage命令，了解其作用。
 #####	python manage.py runserver        本机上开启一个 Web 服务器
 #####	python manage.py startapp             创建某个应用
