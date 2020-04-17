@@ -1,6 +1,7 @@
 ### 1.安装pycharm专业版。重点在于如何激活。请搜索并形成笔记。
 ##### 从网上搜索，并试行，最后是用了下面这个地址的方法激活成功了：
-##### https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
+激活[id]
+[id]:https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
 
 #### 使用方法:
 ##### 1. 先下载压缩包解压后得到jetbrains-agent.jar。
@@ -25,6 +26,7 @@
 #####	python manage.py makemigrations        django 在应用的 migrations 目录下生成了一个 0001_initial.py 文件，这个文件是 django 用来记录我们对模型做了哪些修改的文件
 #####	python manage.py migrate              django 通过检测应用中 migrations 目录下的文件，得知我们对数据库做了哪些操作，然后它把这些操作翻译成数据库操作语言，从而把这些操作作用于真正的数据库里
 #####	python manage.py createsuperuser       创建用户
+![idol](http://pcx2lec2u.bkt.clouddn.com/201808051449_378.jpg)
 	
 	
 	
