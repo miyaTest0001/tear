@@ -29,7 +29,8 @@
 	
 	
 	
-
+行内链接行内图片地址式：
+[![新浪微博](images/sina.png "我的新浪微博")]( http://weibo.com/kayvon "新浪微博")
 
 
 
