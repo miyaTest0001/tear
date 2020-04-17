@@ -25,12 +25,10 @@
 #####	python manage.py migrate              django 通过检测应用中 migrations 目录下的文件，得知我们对数据库做了哪些操作，然后它把这些操作翻译成数据库操作语言，从而把这些操作作用于真正的数据库里
 #####	python manage.py createsuperuser       创建用户
 ![查看图片](https://github.com/miyaTest0001/tear/blob/master/IMG/1.pngIMG/a.jpg "查看图片")
-![我的github](https://github.com/kaivin/markdown/raw/master/images/github.png "我的github")
+![我的github](IMG/b.jpg "我的github")
 	
 	
-	
-行内链接行内图片地址式：
-[![新浪微博](images/sina.png "我的新浪微博")]( http://weibo.com/kayvon "新浪微博")
+
 
 
 
