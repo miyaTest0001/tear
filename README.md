@@ -26,6 +26,7 @@
 #####	python manage.py createsuperuser       创建用户
 ![查看图片](IMG/a.jpg "查看图片")
 ![我的github](IMG/b.jpg "我的github")
+![img](IMG/1.png "查看-img")
 	
 	
 
