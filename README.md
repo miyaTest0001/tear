@@ -1,6 +1,5 @@
 ### 1.安装pycharm专业版。重点在于如何激活。请搜索并形成笔记。
-##### 从网上搜索，并试行，最后是用了下面这个地址的方法激活成功了：
-##### [激活](https://zhile.io/2018/08/17/jetbrains-license-server-crack.html)
+##### 从网上搜索，并试行，最后是用了下面这个地址的方法[激活](https://zhile.io/2018/08/17/jetbrains-license-server-crack.html)成功了：
 
 #### 使用方法:
 ##### 1. 先下载压缩包解压后得到jetbrains-agent.jar。
