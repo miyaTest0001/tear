@@ -1,7 +1,7 @@
 ### 1.安装pycharm专业版。重点在于如何激活。请搜索并形成笔记。
 ##### 从网上搜索，并试行，最后是用了下面这个地址的方法激活成功了：
 ##### 激活[1]
-[1]:https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
+[1]https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
 
 #### 使用方法:
 ##### 1. 先下载压缩包解压后得到jetbrains-agent.jar。
@@ -28,10 +28,10 @@
 #####	python manage.py createsuperuser       创建用户
 ![idol](http://pcx2lec2u.bkt.clouddn.com/201808051449_378.jpg)
 	
-我常用的网站包括 [Google][1]， [Yahoo][2] 和 [MSN][3] 。
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
+我常用的网站包括 [Google][]，[Yahoo][] 和 [MSN][] 。
+[google]: http://google.com/        "Google"
+[yahoo]:  http://search.yahoo.com/  "Yahoo Search"
+[msn]:    http://search.msn.com/    "MSN Search"
 	
 	
 	
