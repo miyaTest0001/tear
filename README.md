@@ -28,12 +28,6 @@
 #####	python manage.py createsuperuser       创建用户
 ![idol](http://pcx2lec2u.bkt.clouddn.com/201808051449_378.jpg)
 	
-我常用的网站包括 [Google][]，[Yahoo][] 和 [MSN][] 。
-[google]: http://google.com/        "Google"
-[yahoo]:  http://search.yahoo.com/  "Yahoo Search"
-[msn]:    http://search.msn.com/    "MSN Search"
-	
-	
 	
 	
 
