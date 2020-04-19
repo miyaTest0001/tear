@@ -47,7 +47,7 @@
 ##### 3. ForeignKey，即一对多的关联关系。ForeignKey 必须传入一个 on_delete 参数用来指定当关联的数据被删除时，被关联的数据也同时被删除。使用 models.CASCADE 参数，意为级联删除。
 ##### 4. ManyToManyField，表明这是多对多的关联关系。可设置参数指定 blank=True。
 
-
+---
 
 
 
