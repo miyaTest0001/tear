@@ -37,9 +37,7 @@
 
 ### 3.model常用字段及其参数含义
 ##### （model里面的类名即表名，类的属性对应着表格的列，属性名即列名）
-##### 1.CharField 指定了分类名 name 的数据类型，CharField 是字符型，
-##### CharField 的 max_length 参数指定其最大长度，超过这个长度的分类名就不能被存入数据库。
-##### 指定 CharField 的 blank=True 参数值后就可以允许空值了。
+##### 1.CharField 指定了分类名 name 的数据类型，CharField 是字符型，CharField 的 max_length 参数指定其最大长度，超过这个长度的分类名就不能被存入数据库。指定 CharField 的 blank=True 参数值后就可以允许空值了。
 ##### 2.存储时间的字段用 DateTimeField 类型、整数类型 IntegerField、存储大段文本使用 TextField。
 ##### 3.ForeignKey，即一对多的关联关系。ForeignKey 必须传入一个 on_delete 参数用来指定当关联的数据被删除时，被关联的数据也同时被删除。使用 models.CASCADE 参数，意为级联删除。
 ##### 4.ManyToManyField，表明这是多对多的关联关系。可设置参数指定 blank=True。
