@@ -27,6 +27,7 @@
 #####	python manage.py migrate              django 通过检测应用中 migrations 目录下的文件，得知我们对数据库做了哪些操作，然后它把这些操作翻译成数据库操作语言，从而把这些操作作用于真正的数据库里
 #####	python manage.py createsuperuser       创建用户
 
+---
 ## ● 第二次的作业
 
 ### 1. 描述一个完整的http(s)请求都经历哪些环节
