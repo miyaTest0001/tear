@@ -51,14 +51,14 @@ class Post(models.Model):
     def save(self, *args, **kwargs):
         self.modified_time = timezone.now()
 
-        # # 实例化一个Markdown 类，用于渲染body文本
-        # md = markdown.Markdown(extensions=[
-        #     'markdown.extensions.extra',
-        #     'markdown.extensions.codehilite'
-        # ])
-        #
-        # # 先将Markdown文本渲染成HTML文本，strip_tags去掉HTML文本的全部HTML标签，从文本摘取前54个字符赋给excerpt
-        # self.excerpt = strip_tags(md.convert(self.body))[:54]
+        # 实例化一个Markdown 类，用于渲染body文本
+        md = markdown.Markdown(extensions=[
+            'markdown.extensions.extra',
+            'markdown.extensions.codehilite'
+        ])
+
+        # 先将Markdown文本渲染成HTML文本，strip_tags去掉HTML文本的全部HTML标签，从文本摘取前54个字符赋给excerpt
+        self.excerpt = strip_tags(md.convert(self.body))[:54]
 
         super().save(*args, **kwargs)
 
