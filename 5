@@ -1,0 +1,58 @@
+1.mysql navicat python2.7
+2.virtualenv 
+  cmd  
+  安装： pip install virtualenv
+  创建虚拟目录 virtualenv testvir
+  
+  进入虚拟环境：activate.bat 
+  查看当前安装了哪些库 ： pip list
+  退出当前虚拟环境： deactivate.bat
+  
+  可以安装virtualenvwrapper 来创建虚拟环境目录，如下：testvir2
+  pip install virtualenvwrapper-win
+  mkvirtualenv testvir2
+  退出当前虚拟环境： deactivate.bat
+  
+  查看当前有哪些虚拟环境 workon
+  
+  进入某个虚拟环境 workon testvir2
+  
+  进入虚拟环境，安装包：pip install requests
+  卸载包：pip uninstall requests
+  
+  安装mysql驱动 报错：
+  https://blog.csdn.net/u012882134/article/details/51934165
+  
+  使用virtualenv -p python.exe virtualenvname 可以在创建虚拟环境的时候指定python版本
+  https://www.jb51.net/article/117967.htm
+  
+  mkvirtualenv --python=python3.5 venvname # venvname 虚拟环境名称
+或
+mkvirtualenv -p python3.5 venvname # venvname 虚拟环境名称
+
+dgango document:
+https://docs.djangoproject.com/en/3.0/ref/templates/builtins/
+
+pip install --upgrade <包名>   更换包
+使用更新命令行：pip uninstall PackageName
+python : 2.7.11
+rmvirtualenv 虚拟环境名称  —— 删除虚拟环境名称
+mkvirtualenv 虚拟环境名称       、  mkvirtualenv -p python3.5 venvname # venvname 虚拟环境名称
+pip install django==1.9
+去pycharm创建django项目，并引用前面创建的虚拟环境
+
+pip install mysql-python 会报错，然后
+cd C:\Users\Administrator\Downloads
+c:
+pip install MySQL_python-1.2.5-cp27-none-win_amd64.whl
+
+pycharm : Tools -- Run manage.py Task
+makemigrations   生成比对记录
+migrate  ——生产数据表
+startapp users  新建APP users
+
+createsuperuser  创建后台账号
+
+后台系统的 “组”对于的表是 auth_user
+
+http://projectsedu.com/
